@@ -1,0 +1,5 @@
+PyPDF2
+jieba
+install
+fastapi
+uvicorn
